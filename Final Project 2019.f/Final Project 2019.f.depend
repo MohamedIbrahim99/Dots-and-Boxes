@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1576889637 source:w:\csed23\projects\programming\final project 2019.f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<ctype.h>
+	<time.h>
+
